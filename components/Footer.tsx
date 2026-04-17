@@ -18,7 +18,7 @@ export default function Footer() {
               Quick Links
             </h5>
             <ul className="space-y-2 text-sm">
-              <li><Link href="/Navbar">Home</Link></li>
+              <li><Link href="/">Home</Link></li>
               <li><Link href="/about">About Us</Link></li>
               <li><Link href="/programs">Our Programs</Link></li>
               <li><Link href="/contact">Contact</Link></li>
